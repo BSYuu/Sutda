@@ -1,0 +1,14 @@
+C:\Users\301-13\source\repos\Sutda\Sutda\bin\Debug\Sutda.exe.config
+C:\Users\301-13\source\repos\Sutda\Sutda\bin\Debug\Sutda.exe
+C:\Users\301-13\source\repos\Sutda\Sutda\bin\Debug\Sutda.pdb
+C:\Users\301-13\source\repos\Sutda\Sutda\obj\Debug\Sutda.csprojAssemblyReference.cache
+C:\Users\301-13\source\repos\Sutda\Sutda\obj\Debug\Sutda.csproj.CoreCompileInputs.cache
+C:\Users\301-13\source\repos\Sutda\Sutda\obj\Debug\Sutda.exe
+C:\Users\301-13\source\repos\Sutda\Sutda\obj\Debug\Sutda.pdb
+D:\Google 드라이브\C#\Sutda\Sutda\bin\Debug\Sutda.exe.config
+D:\Google 드라이브\C#\Sutda\Sutda\bin\Debug\Sutda.exe
+D:\Google 드라이브\C#\Sutda\Sutda\bin\Debug\Sutda.pdb
+D:\Google 드라이브\C#\Sutda\Sutda\obj\Debug\Sutda.csprojAssemblyReference.cache
+D:\Google 드라이브\C#\Sutda\Sutda\obj\Debug\Sutda.csproj.CoreCompileInputs.cache
+D:\Google 드라이브\C#\Sutda\Sutda\obj\Debug\Sutda.exe
+D:\Google 드라이브\C#\Sutda\Sutda\obj\Debug\Sutda.pdb

@@ -1,0 +1,17 @@
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\SutdaUnittest.dll
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\SutdaUnittest.pdb
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\Sutda.exe
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\Sutda.pdb
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\Sutda.exe.config
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\obj\Debug\SutdaUnittest.csprojAssemblyReference.cache
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\obj\Debug\SutdaUnittest.csproj.CoreCompileInputs.cache
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\obj\Debug\SutdaUnittest.csproj.CopyComplete
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\obj\Debug\SutdaUnittest.dll
+C:\Users\301-13\source\repos\Sutda\SutdaUnittest\obj\Debug\SutdaUnittest.pdb
